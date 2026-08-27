@@ -1,0 +1,11 @@
+{
+  "version": "0.2.0-alpha.5",
+  "notes": "See the GitHub release notes for this version.",
+  "pub_date": "2026-08-27T01:21:25.0597310Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTN1dMYll3R2twVmp5dDZmZ0JxZkswTndTdEtzYkRNZVBNOGVSayt1K2t3VXNPaXZGWXhpZnhoVVZOYTJiZXE3a3JlczRpbjNvbzl3UTlMR09zOUN4bENabHN6a1Y2eEFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3NzkzNTM4CWZpbGU6U2ltc1Rvb2xraXRfMC4yLjAtYWxwaGEuNV94NjQtc2V0dXAuZXhlCm1RM2hFZHRqdkl5NGN3d2xIcUpKdXhqR0RPT0dtYjM1R0dyaUFlejZTVnUySDhmQXdJVHhybzFwYmFzNTJQZ21jZjdOZjZsN0ZBU2w1OCtaanpmT0NBPT0K",
+      "url": "https://github.com/Azvf/Simaritan-Release/releases/download/v0.2.0-alpha.5/SimsToolkit_0.2.0-alpha.5_x64-setup.exe"
+    }
+  }
+}
