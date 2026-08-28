@@ -2,6 +2,8 @@
 
 > 把《模拟人生 4》的 Mods、家庭、地段和穿搭整理成自己看得懂、随时能切换的内容方案。
 
+[Afdian 认证 / 支持作者](https://afdian.com/a/alphonz?tab=feed)
+
 [下载 Windows 版](https://github.com/Azvf/Simaritan-Release/releases) · [5 分钟快速开始](docs/UserGuide/快速开始.md) · [完整使用流程](docs/UserGuide/完整关键链路.md) · [全部模块教程](docs/UserGuide/README.md)
 
 ![Platform](https://img.shields.io/badge/platform-Windows-lightgrey)
