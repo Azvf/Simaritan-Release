@@ -2,7 +2,7 @@
 
 > Organize your The Sims 4 Mods, households, lots, and outfits into collections that make sense to you—and switch between them whenever you need.
 
-[Afdian Verification / Support the Creator](https://afdian.com/a/alphonz?tab=feed)
+[Support the Creator on Patreon](https://patreon.com/alphonz?utm_medium=unknown&utm_source=join_link&utm_campaign=creatorshare_creator&utm_content=copyLink)
 
 [Download for Windows](https://github.com/Azvf/Simaritan-Release/releases) · [5-Minute Quick Start](docs/UserGuide/快速开始.md) · [Complete Workflow](docs/UserGuide/完整关键链路.md) · [All Module Guides](docs/UserGuide/README.md)
 
