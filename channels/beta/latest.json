@@ -1,6 +1,6 @@
 {
   "version": "0.4.25",
-  "notes": "See the GitHub release notes for this version.",
+  "notes": "# Simaritan 0.4.25\n\n- 部分 Tray 文件读取或解析失败时，仍可进入应用，并显示提示以便修复后重试。\n- 系统模组按完整目录映射，保留附属资源与配置文件。\n- 衣橱和地段支持右键单选、多选删除 Mod，删除前统一检查影响并长按确认。\n- 衣橱和地段支持 Ctrl+A 全选当前页。",
   "pub_date": "2026-09-22T15:17:13.7509853Z",
   "platforms": {
     "windows-x86_64": {
