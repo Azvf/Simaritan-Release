@@ -1,11 +1,11 @@
 {
-  "version": "0.4.25",
-  "notes": "# Simaritan 0.4.25\n\n- 部分 Tray 文件读取或解析失败时，仍可进入应用，并显示提示以便修复后重试。\n- 系统模组按完整目录映射，保留附属资源与配置文件。\n- 衣橱和地段支持右键单选、多选删除 Mod，删除前统一检查影响并长按确认。\n- 衣橱和地段支持 Ctrl+A 全选当前页。",
-  "pub_date": "2026-09-22T15:17:13.7509853Z",
+  "version": "0.4.26",
+  "notes": "See the GitHub release notes for this version.",
+  "pub_date": "2026-09-23T07:13:52.2694263Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTN1dMYll3R2twVnFIcDF5WTA0TVNObXVwZXNXWVU4MnZKMUhvdlRCeG8wVS9aa0plelN6ZFhtN295RlFCRXRxNjZOdGdJYnpxaExLSXFkK1RuZWIvREJGQ3hUaHMxYkFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwMDg5MTI4CWZpbGU6U2ltYXJpdGFuXzAuNC4yNV94NjQtc2V0dXAuZXhlCnNEcWRUdHJ5NTBwVUxxS2x2WXVuKzU4ak1HZmNrS01NSUlqNC93cmduc1F6SlVsNWo0YnZ1Sjc3SVV0YW1oTUN4SlRZNmlFUVdaN1BPeVNLNnYrRURBPT0K",
-      "url": "https://github.com/Azvf/Simaritan-Release/releases/download/v0.4.25/Simaritan_0.4.25_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTN1dMYll3R2twVnJTNjZyM2lPK3B1eU1nYXNaSllqYmVTUlVrTzJ5Qk56emVxUHIvbDlTOURiSkxKM1NNbnowcGdXZDg1UCtyb0FPb0FPa29ERHhVMW5TY1RFUldVWGcwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwMTQ3NTAxCWZpbGU6U2ltYXJpdGFuXzAuNC4yNl94NjQtc2V0dXAuZXhlCjhGYklnVWoxcEVBa1FNRUppc3lGQmdhcDFOc2ptTG5zTldyRzUva3VHdGRnT1F4WUVHSEcrQUZUM0tvV1prMUZFRmc1anJZbmdGQXdCZCtZZjVLdENRPT0K",
+      "url": "https://github.com/Azvf/Simaritan-Release/releases/download/v0.4.26/Simaritan_0.4.26_x64-setup.exe"
     }
   }
 }
