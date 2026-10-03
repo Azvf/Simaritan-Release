@@ -1,6 +1,6 @@
 {
   "version": "1.0.1-beta",
-  "notes": "See the GitHub release notes for this version.",
+  "notes": "## 更新说明\n\n- 修复内容库路径调整与 Mod 激活异常。\n- 个别 Tray 文件异常时保持启动可用。\n- 修复异常链接导致的内容读取和启动问题。\n- 修复蓝图部分失败后的状态恢复与重试。",
   "pub_date": "2026-10-03T06:43:21.3476484Z",
   "platforms": {
     "windows-x86_64": {
