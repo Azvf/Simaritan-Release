@@ -1,0 +1,11 @@
+{
+  "version": "1.0.3-beta",
+  "notes": "See the GitHub release notes for this version.",
+  "pub_date": "2026-10-04T05:15:37.6450445Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTN1dMYll3R2twVnJXUkJLZkkxSlpmN0c0NURSMzU2ZVZDc055cUQ2bzFLeWM5dlBOc3lLWFR2eHVpNTd1VFB1Qlc0UFdzSWRnQ3pRVnRHcmEycUNLelJHMUpaZWZBdUE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxMDkwNzU3CWZpbGU6U2ltYXJpdGFuXzEuMC4zLWJldGFfeDY0LXNldHVwLmV4ZQplME5LNjEwREpUdUNlRW9RN2lCaDBOdTNrY2wvVjVDRFBQcVQwWTEwOXhVOStRYzZRZk4xVlo1Z0dQZm9xdllQN3pMY2JVSTBnZmg0T3VrakY1QTNCZz09Cg==",
+      "url": "https://github.com/Azvf/Simaritan-Release/releases/download/v1.0.3-beta/Simaritan_1.0.3-beta_x64-setup.exe"
+    }
+  }
+}
