@@ -1,11 +1,11 @@
 {
-  "version": "0.4.27",
+  "version": "1.2.0",
   "notes": "See the GitHub release notes for this version.",
-  "pub_date": "2026-10-02T13:56:36.5208429Z",
+  "pub_date": "2026-11-08T05:58:53.4189831Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTN1dMYll3R2twVm1sa053MnRBbmJuenl6dThDM0VYRDA4cmxYeHFGWWtXbVRFeC9JTFhqTFVNT0djZnFRbldMK1haNDIwSjdHdk9KMjRvb3dxcFJJSWdmYm5TNzNCbUFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwOTQ5MjczCWZpbGU6U2ltYXJpdGFuXzAuNC4yN194NjQtc2V0dXAuZXhlCkxwR0IxT3NPa1g1MzdhNGtlY1lQV0J2ay9pKzJwQXg4ME94aVVwT2tGRE0xNlBkZU00K2RIRmg2VEZuaUh1QU5KbTV4WHBCdFltbXQ3TzZmc2U3aUNnPT0K",
-      "url": "https://github.com/Azvf/Simaritan-Release/releases/download/v0.4.27/Simaritan_0.4.27_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTN1dMYll3R2twVnMyRE1MN2lPU1BXWU1PNnBjN1NTS2JEWVA5Sys4SGk3WWtoTWdScUt3TTNveTNxeTJkdlFvQkQzMGNrNGd1WGwzUnJMbkRsWHFIMTNNa3FBSVJWcGdFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MTE3Mzk1CWZpbGU6U2ltYXJpdGFuXzEuMi4wX3g2NC1zZXR1cC5leGUKVXZUV1VhbEFyOGJhTDV2S0VKVXZOMjNQeVJRbzdPTUZjbmxvT1BFSmc2TVU0UEFZWmZDc1dhTHhxMk9qQUMzNGNKaVljaktGOEF5NXJRMGtjK1lvQVE9PQo=",
+      "url": "https://github.com/Azvf/Simaritan-Release/releases/download/v1.2.0/Simaritan_1.2.0_x64-setup.exe"
     }
   }
 }
