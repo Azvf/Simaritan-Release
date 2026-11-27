@@ -1,0 +1,11 @@
+{
+  "version": "1.3.0",
+  "notes": "See the GitHub release notes for this version.",
+  "pub_date": "2026-11-27T04:57:23.2060830Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTN1dMYll3R2twVml6T1kzUE9UcEFQQ2hRNDZKUGpzTnk3bXN2cnhoMVNtcWYxQktPQ3hYRTBuOS9PUlFJdHdrVGNBdHUvQ2VwOUFsc3NUYzZkVEVabFVWRUJyd3V1QmdFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NzU1MjA1CWZpbGU6U2ltYXJpdGFuXzEuMy4wX3g2NC1zZXR1cC5leGUKenp5OFZOdFJ1azhBTWNOT3JNdUR3aUpVdXdjYmdSeW5aOHc1UUJwNEJwOHdMNy83VHV5RnU3WVdycUU5ejNDS3hMVnFwL3QrUWVYMHM0YnlvcWxRQWc9PQo=",
+      "url": "https://github.com/Azvf/Simaritan-Release/releases/download/v1.3.0/Simaritan_1.3.0_x64-setup-intl.exe"
+    }
+  }
+}
